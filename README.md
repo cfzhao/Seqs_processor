@@ -1,5 +1,5 @@
 # seqs_processor
-Deal with fasta file
+Deal with fasta file.
 
 ## There are two main modes of this program:  
 - mode 1: extracting seqs according seq ids(one id per line format);  
