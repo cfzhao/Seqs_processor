@@ -1,4 +1,4 @@
-# seqs_processor
+# Seqs_processor
 Deal with fasta file.
 
 ## There are two main modes of this program:  
